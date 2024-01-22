@@ -1,0 +1,4 @@
+- virtuelle Organisation / Arbeitsplätze
+- Methodische Defizite
+- Wo Forschungsbedarf
+  - (ökolögische Auswirkungen=)
