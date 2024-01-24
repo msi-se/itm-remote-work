@@ -56,13 +56,24 @@ Quellen:
 ## Intergenerationale Aspekte (@TobiTgl)
 
 ### Historische Entwicklung von Remotearbeit
-- Anfang 1980er taucht Begriff erstmals in Deutschland auf mit aufkommen von Informations- & Kommunikationstechnologien
+- 1970er in USA & Anfang 1980er taucht Begriff erstmals in Deutschland (Siemens) auf mit aufkommen von Informations- & Kommunikationstechnologien
   - "Zahl der Arbeitsplätze für Teleprogrammierer dürfte heute allein in den USA bereits bei einigen Tausend liegen"
 - Zuvor "Heimarbeit" (einfach sich wiederholende Tätigkeiten z.B. Textilherstellung)
 - -> Nun auch Bürotätigkeiten mit "hohem Qualitätsprofil" möglich 
-https://www.integrata-stiftung.de/wp-content/uploads/2020/09/Telearbeit.pdf
-### Vergleich zwischen Generationen
+Quellen:
+- https://www.integrata-stiftung.de/wp-content/uploads/2020/09/Telearbeit.pdf
+- Survey of Telework Activities in Europe (https://link.springer.com/chapter/10.1007/978-3-642-59457-1_16)
 
+### Vergleich zwischen Generationen
+1985er wenige 1000 in USA, 2010er, 2023 ~ 11,5 mio. Erwerbstätige zum Teil im Homeoffice (2017 ~ 5 mio.)
+
+- Stille Generation: Pre Telework
+- Boomer Generation: erste Generation für die Telearbeit technisch möglich war mit den ersten computern, mit der Entstehung des WWW ab 1993 ergaben sich neue Kommunikationsmöglichkeiten
+  - Computer zu beginn groß, schwer & relativ geringe Arbeitsleistung: Arbeit Zuhause erfordert zweiten Rechner (Hohe Kosten für Arbeitgeber). Datenstände von Arbeit Zuhause muss mit Disketten (1,44 MB Speicher) gespeichert werden und später im Unternehmen wieder synchronisiert werden  
+- Alles nach der GenY: Telearbeit/Remotework teil des Arbeitsalltags, Portable Geräte & Highspeedinternet, Videotelefonie, kein fester Arbeitsplatz nötig: Arbeit von überall aus der Welt möglich.
+- Zukunft? 
+
+https://home.cern/science/computing/birth-web
 
 ## Technologische Voraussetzungen und Herausforderungen (@Fabi-02)
 
