@@ -33,6 +33,9 @@ Quellen:
 - https://www.gesetze-im-internet.de/sgb_7/__8.html
 - https://www.gesetze-im-internet.de/arbst_ttv_2004/__2.html
 - https://www.haufe.de/arbeitsschutz/recht-politik/telearbeit-arbeitsschutz-an-homeoffice-arbeitsplaetzen_92_496620.html
+- VON DER HEIMARBEIT INS
+HOMEOFFICE
+Was haben wir aus der Vergangenheit gelernt? (I.M.U)
 
 ### Verbreitung von Remotearbeit
 
@@ -43,15 +46,21 @@ Quellen:
   - Verarbeitendes Gewerbe: Herstellung Bekleidung & Kraftwagen(-teile)
 - Keine Veränderungen nach der Aufhebung der Homeofficefplicht (im März 2023 seit März 2022)
 - pre-covid 13% -> Großer Sprung innerhalb kurzer Zeit
+- 2015 ~ 50% der Unternehmen bieten Homeoffice an
 
 Quellen:
 - https://www.ifo.de/pressemitteilung/2023-03-02/drei-von-vier-beschaeftigten-bei-it-dienstleistern-nutzen-homeoffice
 - https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2023/PD23_28_p002.html
+- https://www.bmas.de/SharedDocs/Downloads/DE/Publikationen/a873.pdf;jsessionid=636C1D4624B159B4FDE8A8E67B19AFD4.delivery1-replication?__blob=publicationFile&v=1
 
 ## Intergenerationale Aspekte (@TobiTgl)
 
 ### Historische Entwicklung von Remotearbeit
-
+- Anfang 1980er taucht Begriff erstmals in Deutschland auf mit aufkommen von Informations- & Kommunikationstechnologien
+  - "Zahl der Arbeitsplätze für Teleprogrammierer dürfte heute allein in den USA bereits bei einigen Tausend liegen"
+- Zuvor "Heimarbeit" (einfach sich wiederholende Tätigkeiten z.B. Textilherstellung)
+- -> Nun auch Bürotätigkeiten mit "hohem Qualitätsprofil" möglich 
+https://www.integrata-stiftung.de/wp-content/uploads/2020/09/Telearbeit.pdf
 ### Vergleich zwischen Generationen
 
 
