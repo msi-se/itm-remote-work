@@ -55,6 +55,9 @@ Mobiles Arbeiten Datenschutz [BfDI: https://www.bfdi.bund.de/SharedDocs/Download
     - Nur mit VPN auf Firmennetz zugreifen
     - Mithörer bei vertraulichen Gesprächen
 - Rechte und Pflichten
+  - Jeder Mitarbeiter hat Pflichten im Umgang mit Daten
+  - Arbeitgeber für die Einhaltung der Datenschutzvorschriften verantwortlich
+  - Mechanismen zur Überprüfung der Einhaltung der Datenschutzvorschriften (Unbefugter Zugriff auf Daten, Datenverlust, Datenveränderung)
 
 ### Umgang mit technologischen Herausforderungen
 
