@@ -10,6 +10,8 @@ Präsentationsnotizen (und Draft für Paper)
    - Keine Gesetzliche Definition/Regelung [1]
    - gelegentliches Arbeiten von zu Hause [1]
    - Freiwilliges Angebot von Arbeitsgeber [1]
+   - Darin ist festgelegt, dass Arbeit-geber verpflichtet sind, ihren Mitarbeiterinnen und Mitarbeitern Homeoffice anzubieten
+   - https://www.bmwk.de/Redaktion/DE/Downloads/I/infas-corona-datenplattform-homeoffice.pdf?__blob=publicationFile&v=4, 
    - Gesetzesentwurf für Recht auf Homeoffice in Arbeit durch BMAS [1]
  - Telearbeit (remote work)
    - seit 2016 gesetzlich geregelt (ArbStättV) [2]
@@ -37,7 +39,7 @@ HOMEOFFICE [7]
 Was haben wir aus der Vergangenheit gelernt? [8] (I.M.U)
 
 ### Verbreitung von Remotearbeit
-
+**Schwer Daten von 2000er zu finden**
 - Gesamtwirtschaft ~25% der Beschäftigten arbeiten (teilweise) im Homeoffice [9]
 - Dienstleistungssektor 35,6% (teilweise) im Homeoffice [9]
   - Informationstechnologiebranche 73,4% (neuer Spitzenreiter seit 2023 davor Unternehmensberatung) [9]
@@ -66,7 +68,7 @@ Quellen:
 - Survey of Telework Activities in Europe (https://link.springer.com/chapter/10.1007/978-3-322-85190-1_6) [14]
 
 ### Vergleich zwischen Generationen
-1985er wenige 1000 in USA [13], 2010er, 2023 ~ 11,5 mio. Erwerbstätige zum Teil im Homeoffice (2017 ~ 5 mio.) [10, 16, 17]
+1985er wenige 1000 **(zu 11,5 mio in Deutschland)** in USA [13], 2010er, 2023 ~ 11,5 mio. Erwerbstätige zum Teil im Homeoffice (2017 ~ 5 mio.) [10, 16, 17]
 
 - Stille Generation: Pre Telework
 - Boomer Generation: erste Generation für die Telearbeit technisch möglich war mit den ersten computern, mit der Entstehung des WWW ab 1993 [15] ergaben sich neue Kommunikationsmöglichkeiten
