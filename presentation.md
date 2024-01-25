@@ -184,8 +184,21 @@ Verbesserte Vereinbarkeit von Beruf und Familie [WSI: https://www.boeckler.de/de
 
 ### Veränderungen in der Teamdynamik und Unternehmenskultur
 
-- Mehr asynchrone Kommunikation
+[https://business-user.de/arbeitswelt/homeoffice-und-die-auswirkungen-auf-die-psyche/]
+
+- Die drohende Gefahr der sozialen Isolation
+    - Kontakt zu Kollegen wichtig
+
+- Oft keine klare Struktur der Arbeitszeit und Pausen
+- (Nebenher) um Kinder kümmern
+--> Verschwimmung zwischen Arbeit und Privatleben
 
 - 50,2% finden den fehlenden Kontakt zu Kollegen besonders belastend [Statista: https://de.statista.com/statistik/daten/studie/1279392/umfrage/belastende-faktoren-im-homeoffice/]
 
 ### Herausforderungen und Lösungsansätze für soziale Aspekte
+
+- Kommunikation über digitale Medien
+- Regelmäßige Meetings
+- Arbeitsalltag strukturieren
+- Trennung von Arbeit und Privatleben
+- Regelmäßige Schulungen und Fortbildungen der Mitarbeiter
