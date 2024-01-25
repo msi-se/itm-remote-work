@@ -11,8 +11,8 @@ Präsentationsnotizen (und Draft für Paper)
    - gelegentliches Arbeiten von zu Hause [1]
    - Freiwilliges Angebot von Arbeitsgeber [1]
    - Gesetzesentwurf für Recht auf Homeoffice in Arbeit durch BMAS [1]
- - Telearbeit (remote work, umgangsprachlich auch bei Homeoffice inbegriffen?)
-   - seit 2016 gesetzlich geregelt [2]
+ - Telearbeit (remote work)
+   - seit 2016 gesetzlich geregelt (ArbStättV) [2]
    - Beschäftigte arbeiten (zum Teil) an vom Arbeitgeber fest eingerichteten Bildschirmarbeitsplatzes außerhalb des Betriebes [2]
    - Grundlage für Telearbeit: Vereinbarung zwischen Beschäftigten und Arbeitgeber über die Einrichtung eines Bildschirmarbeitsplatzes im Privatbereich [3, seite 6]
    - Erstattung von Kosten die durch Telearbeit entstanden sind (evtl individuelle/ betriebliche Vereinbarung) [3, seite 7]
@@ -59,24 +59,24 @@ Quellen:
 ### Historische Entwicklung von Remotearbeit
 - 1970er in USA & Anfang 1980er taucht Begriff erstmals in Deutschland (Siemens) auf mit aufkommen von Informations- & Kommunikationstechnologien [14][13]
   - "Zahl der Arbeitsplätze für Teleprogrammierer dürfte heute allein in den USA bereits bei einigen Tausend liegen" [13]
-- Zuvor "Heimarbeit" (einfach sich wiederholende Tätigkeiten z.B. Textilherstellung) [13]
-- -> Nun auch Bürotätigkeiten mit "hohem Qualitätsprofil" möglich [13]
+- ~~Zuvor "Heimarbeit" (einfach sich wiederholende Tätigkeiten z.B. Textilherstellung)~~ [13]
+- -> ~~Nun auch Bürotätigkeiten mit "hohem Qualitätsprofil" möglich~~ [13]
 Quellen:
 - https://www.integrata-stiftung.de/wp-content/uploads/2020/09/Telearbeit.pdf [13]
-- Survey of Telework Activities in Europe (https://link.springer.com/chapter/10.1007/978-3-642-59457-1_16) [14]
+- Survey of Telework Activities in Europe (https://link.springer.com/chapter/10.1007/978-3-322-85190-1_6) [14]
 
 ### Vergleich zwischen Generationen
 1985er wenige 1000 in USA [13], 2010er, 2023 ~ 11,5 mio. Erwerbstätige zum Teil im Homeoffice (2017 ~ 5 mio.) [10, 16, 17]
 
 - Stille Generation: Pre Telework
 - Boomer Generation: erste Generation für die Telearbeit technisch möglich war mit den ersten computern, mit der Entstehung des WWW ab 1993 [15] ergaben sich neue Kommunikationsmöglichkeiten
-  - Computer zu beginn groß, schwer & relativ geringe Arbeitsleistung: Arbeit Zuhause erfordert zweiten Rechner (Hohe Kosten für Arbeitgeber). Datenstände von Arbeit Zuhause muss mit Disketten (1,44 MB Speicher) gespeichert werden und später im Unternehmen wieder synchronisiert werden  
+  - Computer zu beginn groß, schwer & relativ geringe Arbeitsleistung. Ökonomisch gesehen anfangs nicht relevant. Limitierte Rechenleistung  [14]
+  - Arbeit Zuhause erfordert zweiten Rechner (Hohe Kosten für Arbeitgeber). Datenstände von Arbeit Zuhause muss mit Disketten (1,44 MB Speicher) gespeichert werden und später im Unternehmen wieder synchronisiert werden  
 - Alles nach der GenY: Telearbeit/Remotework teil des Arbeitsalltags, Portable Geräte & Highspeedinternet, Videotelefonie, kein fester Arbeitsplatz nötig: Arbeit von überall aus der Welt möglich.
-- Zukunft? 
 
-https://home.cern/science/computing/birth-web [15]
-https://www.destatis.de/DE/Presse/Pressemitteilungen/2018/01/PD18_001_13321.html [16]
-https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/01/PD24_002_132.html [17]
+- https://home.cern/science/computing/birth-web [15]
+- https://www.destatis.de/DE/Presse/Pressemitteilungen/2018/01/PD18_001_13321.html [16]
+- https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/01/PD24_002_132.html [17]
 ## Technologische Voraussetzungen und Herausforderungen (@Fabi-02)
 
 ### Infrastruktur und Technologien für erfolgreiche Remotearbeit
