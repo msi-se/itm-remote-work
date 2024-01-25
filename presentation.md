@@ -85,6 +85,15 @@ Mobiles Arbeiten Datenschutz [BfDI: https://www.bfdi.bund.de/SharedDocs/Download
   - Reisekosten
     - Kosten für Geschäftsreisen sollen 26–45 % zurückgehen
 
+
+- Global Workplace Analytics: (global_workplace_analytics_latest_2021)
+  - bei Halbtags-Homeoffice (2,5 Tage daheim pro Woche)
+    - ein Angestellter spart zwischen €600 und €6.000 durch das Arbeiten von zu Hause (2,5 Tage) (global_workplace_analytics_latest_2021)
+    - ein Angestellter spart durchschnittlich 11 Arbeitstage pro Jahr durch das Reduzieren der Pendelzeit (global_workplace_analytics_latest_2021)
+    - circa € 11.000 spart ein Arbeitgeber pro Jahr, wenn ein Mitarbeiter durchschnittlich 1 Tag pro Woche im Homeoffice arbeitet (global_workplace_analytics_latest_2021)
+
+- Hybridarbeitskräfte sparen 9,11 $ pro Tag, wenn sie von zu Hause aus statt im Büro arbeiten (owl_labs_state_2022)
+
 ### Produktivitätssteigerung durch Homeoffice
 
 - Studie von Capgemini 2020 (capgemini_research_institute_future_2020)
@@ -104,13 +113,13 @@ Mobiles Arbeiten Datenschutz [BfDI: https://www.bfdi.bund.de/SharedDocs/Download
       - mehr Ablekungen
       - Schwierigkeiten beim virtuellen "Connecten" mit Kunden
       - Schwierigkeiten beim virtuellen "Connecten" mit Kollegen
+  
+- Studie, bei der Callcenter untersucht wurden, 12 % weniger Anrufe getätigt (emanuel_working_2023)
 
-- emanuel_working_2023:
-  - neuerer Studie (2023) sagt, dass Produktivität um etwa 3 % nachlässt (emanuel_working_2023)
-  - im HomeOffice kann bei Problemen oft nicht so schnell Rücksprache gehalten werden (holand_homeoffice_2023)
-  - fehlender Austausch mit Kollegen → Kreativität leidet (holand_homeoffice_2023)
-  - elektronische Kommunikation nachweislich mehr Aufwand als persönliche (holand_homeoffice_2023)
-  - andere Untersuchungen sagen, dass die Zufriedenheit und die Produktivität im HomeOffice steigt (holand_homeoffice_2023)
+- im HomeOffice kann bei Problemen oft nicht so schnell Rücksprache gehalten werden (holand_homeoffice_2023)
+- fehlender Austausch mit Kollegen → Kreativität leidet (holand_homeoffice_2023)
+- elektronische Kommunikation nachweislich mehr Aufwand als persönliche (holand_homeoffice_2023)
+- andere Untersuchungen sagen, dass die Zufriedenheit und die Produktivität im HomeOffice steigt (holand_homeoffice_2023)
 
 - Experte: Hannes Zacher, Organisationspsychologe an der Universität Leipzig: (holand_homeoffice_2023)
   - Produktivität hängt viel von der eignen Einstellung ab
@@ -118,11 +127,41 @@ Mobiles Arbeiten Datenschutz [BfDI: https://www.bfdi.bund.de/SharedDocs/Download
       - Teamarbeit schlechter im HomeOffice
       - konzentrierte Arbeitsphasen besser im HomeOffice
 
+- Global Workspace Analytics: (global_workplace_analytics_latest_2021)
+  - Unternehmen schätzten 15 % erhöhte Produktivität
 
-- so Studien, bei denen Mitarbeiter zu HomeOffice befragt werden können natürlich auch zu einer Verzerrung führen
-  - Mitarbeiter, die gerne im HomeOffice arbeiten, werden natürlich sagen, dass sie produktiver sind auch wenn vielleicht sogar das Gegenteil der Fall ist
+- 62 % der befragten Arbeitnehmer fühlen sich im HomeOffice produktiver (owl_labs_state_2022)
 
-- Forschungsstand sehr heterogen und teilweise widersprüchlich
+- Stanford Analyse: 10 % schlechtere Produktivität im HomeOffice (steven_j_davis_evolution_2023)
+
+- Dutcher (glenn_dutcher_effects_2012, S. 362):
+  - langweilige Aufgaben: Produktivität sinkt um 6-10 % (glenn_dutcher_effects_2012, S. 362)
+  - kreative Aufgaben: Produktivität steigt um 12-20 % (glenn_dutcher_effects_2012, S. 362)
+
+- Chinesiches Experiment (Callcenter) (bloom_does_2013)
+  - 13 % Produktivitätssteigerung (bloom_does_2013)
+    - davon 9 % durch mehr Arbeitszeit (weniger Pausen, weniger Krankheitstage)
+    - davon 4 % durch mehr Arbeitsintensität (mehr Aufgaben pro Stunde)
+
+- Australische Studie (bosua_telework_2017)
+  - Telearbeit verbessert die Produktivität durch weniger arbeitsbezogene Unterbrechungen (bosua_telework_2017)
+  - Produktivität im HomeOffice stark an die Erreichbarkeit von IT-Support gekoppelt (bosua_telework_2017)
+  - Hybride Lösung wesentlich besser als reine HomeOffice-Arbeit (bosua_telework_2017)
+
+- Forschungsstand sehr heterogen und teilweise widersprüchlich → Forschungsbedarf
+- Produktivität eines einzelnen Arbeitnehmers ist sehr schwer zu messen (bosua_telework_2017, S. 190)
+  - manche Studien messen Produktivität anhand des Trackens von Arbeitsprogrammen
+  - manche befragen einfach die Arbeitnehmer
+    - so Studien, bei denen Mitarbeiter zu HomeOffice befragt werden können natürlich auch zu einer Verzerrung führen
+      - Mitarbeiter, die gerne im HomeOffice arbeiten, werden natürlich sagen, dass sie produktiver sind auch wenn vielleicht sogar das Gegenteil der Fall ist
+
+## Vortragsnotizen: Ökonomische Auswirkungen TODO:
+
+### Vortragsnotizen: Einsparungen durch Remotearbeit TODO:
+
+### Vortragsnotizen: Produktivitätssteigerung durch Homeoffice TODO:
+
+- wahrscheinlich die kontroverseste Frage zum Thema Homeoffice
 
 ### Wirtschaftliche Chancen und Herausforderungen
 
@@ -135,11 +174,15 @@ Mobiles Arbeiten Datenschutz [BfDI: https://www.bfdi.bund.de/SharedDocs/Download
 ### Energieverbrauch von Remotearbeit
 
 - Stromverbrauch in den Haushalten steigt (daniel_crow_working_2022)
-  - ein Tag im Homeoffice verbraucht zwischen 7 % und 23 % mehr Engergie als ein Tag im Büro
-- "Eine Stunde Videokonferenz verursacht [...] rund 160 Gramm CO₂" (deutschlandfunk_nova_internet)
-- "Die Teilnahme an einer einstündigen Videokonferenz mit dem Notebook verursacht Treibhausgasemissionen von 55 g CO₂(eq), also etwa so viel wie eine PKW-Fahrt von 260 Metern." (eisemann_treibhauseffekt_2021)
-- "Der mit [der Corona-Pandemie] verbundene zusätzliche Energieaufwand [...] für die Datenübertragung sei für bis zu 3,2 Millionen zusätzliche Tonnen CO₂-Äquivalente" (dpa_kamera_2021)
-- Skype: 1,86 GB/h, Zoom: 2,50 GB/h, Webex: 2,58 GB/h, FaceTime: 0,18 GB/h (manuela_franz_energiebedarf_2021)
+  - ein Tag im Homeoffice verbraucht zwischen 7 % und 23 % mehr Energie als ein Tag im Büro
+- Videokonferenzen als Energiefresser
+  - wie viel genau benötigt wird unterscheidet sich je nach Studie
+      - da es hier auch auf das Equipment ankommt
+  - 1h Videokonferenz resultiert in rund 160 Gramm CO₂" (deutschlandfunk_nova_internet)
+  - 1h Videokonferenz resultiert in rund 55 Gramm CO₂" (eisemann_treibhauseffekt_2021)
+  - Skype: 1,86 GB/h, Zoom: 2,50 GB/h, Webex: 2,58 GB/h, FaceTime: 0,18 GB/h (manuela_franz_energiebedarf_2021)
+    - so viel wie eine PKW-Fahrt von 260 Metern (eisemann_treibhauseffekt_2021)
+  - Corona-Pandemie: zusätzlicher Energieaufwand für Datenübertragung: 3,2 Millionen Tonnen CO₂-Äquivalente (dpa_kamera_2021)
 
 ### Veränderungen im Pendelverkehr
 
@@ -159,6 +202,7 @@ Mobiles Arbeiten Datenschutz [BfDI: https://www.bfdi.bund.de/SharedDocs/Download
 
 - längere Pendeldistanzen könnten Erspartes wieder aufheben (daniel_crow_working_2022)
 
+- ein Arbeitnehmer ist durchschnittlich 75 % weniger auf der Straße an Homeoffice-Tagen (global_workplace_analytics_latest_2021)
 
 - mehr als ein Drittel der Organisationen im öffentlichen Sektor erwarten eine Verringerung des Kohlendioxidausstoßes um mehr als 50 % durch Homeoffice (capgemini_research_institute_future_2020)
 - langzeitige Auswirklungen ungewiss sogar für die Internationale Energieagentur (IEA) (daniel_crow_working_2022) 
