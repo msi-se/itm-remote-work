@@ -159,7 +159,7 @@ Mobiles Arbeiten Datenschutz [BfDI: https://www.bfdi.bund.de/SharedDocs/Download
 
 - Hybridarbeitskräfte sparen 9,11 $ pro Tag, wenn sie von zu Hause aus statt im Büro arbeiten (owl_labs_state_2022)
 
-### Produktivitätssteigerung durch Homeoffice
+### Produktivitätsveränderung durch Homeoffice
 
 - Studie von Capgemini 2020 (capgemini_research_institute_future_2020)
   - Produktivitätssteigerung durch das Einsetzen von digitalen Tools, die die Zusammenarbeit erleichtern (S. 3)
@@ -220,13 +220,6 @@ Mobiles Arbeiten Datenschutz [BfDI: https://www.bfdi.bund.de/SharedDocs/Download
     - so Studien, bei denen Mitarbeiter zu HomeOffice befragt werden können natürlich auch zu einer Verzerrung führen
       - Mitarbeiter, die gerne im HomeOffice arbeiten, werden natürlich sagen, dass sie produktiver sind auch wenn vielleicht sogar das Gegenteil der Fall ist
 
-## Vortragsnotizen: Ökonomische Auswirkungen TODO:
-
-### Vortragsnotizen: Einsparungen durch Remotearbeit TODO:
-
-### Vortragsnotizen: Produktivitätssteigerung durch Homeoffice TODO:
-
-- wahrscheinlich die kontroverseste Frage zum Thema Homeoffice
 
 ### Wirtschaftliche Chancen und Herausforderungen
 
@@ -245,8 +238,8 @@ Mobiles Arbeiten Datenschutz [BfDI: https://www.bfdi.bund.de/SharedDocs/Download
       - da es hier auch auf das Equipment ankommt
   - 1h Videokonferenz resultiert in rund 160 Gramm CO₂" (deutschlandfunk_nova_internet)
   - 1h Videokonferenz resultiert in rund 55 Gramm CO₂" (eisemann_treibhauseffekt_2021)
-  - Skype: 1,86 GB/h, Zoom: 2,50 GB/h, Webex: 2,58 GB/h, FaceTime: 0,18 GB/h (manuela_franz_energiebedarf_2021)
     - so viel wie eine PKW-Fahrt von 260 Metern (eisemann_treibhauseffekt_2021)
+  - Skype: 1,86 GB/h, Zoom: 2,50 GB/h, Webex: 2,58 GB/h, FaceTime: 0,18 GB/h (manuela_franz_energiebedarf_2021)
   - Corona-Pandemie: zusätzlicher Energieaufwand für Datenübertragung: 3,2 Millionen Tonnen CO₂-Äquivalente (dpa_kamera_2021)
 
 ### Veränderungen im Pendelverkehr
