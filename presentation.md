@@ -59,6 +59,9 @@ Quellen:
 ## Intergenerationale Aspekte (@TobiTgl)
 
 ### Historische Entwicklung von Remotearbeit
+
+Erhöhtes Bewusstsein bei Krafstoff Ausgaben/Verbrauch von Krafstoff beim pendeln
+
 - 1970er in USA & Anfang 1980er taucht Begriff erstmals in Deutschland (Siemens) auf mit aufkommen von Informations- & Kommunikationstechnologien [14][13]
   - "Zahl der Arbeitsplätze für Teleprogrammierer dürfte heute allein in den USA bereits bei einigen Tausend liegen" [13]
 - ~~Zuvor "Heimarbeit" (einfach sich wiederholende Tätigkeiten z.B. Textilherstellung)~~ [13]
