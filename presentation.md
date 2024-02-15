@@ -280,24 +280,24 @@ Homeoffice verbessert die Vereinbarkeit von Arbeit und Privatleben [WSI: https:/
 52% der Befragten gaben an, dass sich die Vereinbarkeit von Arbeit und Privatleben durch Homeoffice verbessert hat. Davon sind jedoch 18% der Meinung, dass die Grenzen zwischen Arbeit und Privatleben verschwimmen.
 
 **Studie von 2020**:
-Verbesserte Vereinbarkeit von Beruf und Familie [WSI: https://www.boeckler.de/de/auf-einen-blick-17945-Auf-einen-Blick-Studien-zu-Homeoffice-und-mobiler-Arbeit-28040.htm]
+Verbesserte Vereinbarkeit von Beruf und Familie [WSI: https://www.boeckler.de/de/boeckler-impuls-homeoffice-besser-klar-geregelt-27643.htm]
 
 77% der Befragten gaben an, dass das Homeoffice die Vereinbarkeit von Beruf und Familie erleichtert. Bei der Frage, ob Grenzen zwischen Arbeit und Freizeit im Homeoffice verschwimmen, waren 60% dieser Meinung.
 
-### Veränderungen in der Teamdynamik und Unternehmenskultur
+### Herausforderungen
 
 [https://business-user.de/arbeitswelt/homeoffice-und-die-auswirkungen-auf-die-psyche/]
 
-- Die drohende Gefahr der sozialen Isolation
+- Die drohende Gefahr der sozialen Isolation (vor allem bei 100% Remotearbeit)
     - Kontakt zu Kollegen wichtig
 
 - Oft keine klare Struktur der Arbeitszeit und Pausen
 - (Nebenher) um Kinder kümmern
---> Verschwimmung zwischen Arbeit und Privatleben
+--> Verschwimmen zwischen Arbeit und Privatleben
 
 - 50,2% finden den fehlenden Kontakt zu Kollegen besonders belastend [Statista: https://de.statista.com/statistik/daten/studie/1279392/umfrage/belastende-faktoren-im-homeoffice/]
 
-### Herausforderungen und Lösungsansätze für soziale Aspekte
+### Lösungsansätze für soziale Aspekte
 
 - Kommunikation über digitale Medien
 - Regelmäßige Meetings
