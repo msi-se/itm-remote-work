@@ -52,7 +52,7 @@
 \RequirePackage{multicol} % needed for the list of participants, index
 \RequirePackage{aliascnt}
 
-\setlength{\textwidth}{12.2cm}
+\setlength{\textwidth}{13.7cm}
 \setlength{\textheight}{19.3cm}
 \renewcommand\@pnumwidth{2em}
 \renewcommand\@tocrmarg{3.5em}
@@ -214,8 +214,8 @@
 \widowpenalty=10000
 \clubpenalty=10000
 
-\setlength\oddsidemargin   {63\p@}
-\setlength\evensidemargin  {63\p@}
+\setlength\oddsidemargin   {40\p@}
+\setlength\evensidemargin  {40\p@}
 \setlength\marginparwidth  {90\p@}
 
 \setlength\headsep   {16\p@}
